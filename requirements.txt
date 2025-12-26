@@ -1,0 +1,5 @@
+Tidak ada library eksternal yang perlu diinstall via PIP.
+Program ini berjalan menggunakan Python Standard Library:
+1. tkinter (GUI)
+2. sqlite3 (Database)
+3. datetime (Waktu)
